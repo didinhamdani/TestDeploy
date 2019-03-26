@@ -1,17 +1,17 @@
 [
 	{
-	"id" : 1,
-	"nama" : Didin Hamdani,
-	"asal" : Bandung
+	"id" : "1",
+	"nama" : "DidinHamdani",
+	"asal" : "Bandung"
 	},
 	{
-	"id" : 2,
-	"nama" : Didin,
-	"asal" : Bandung
+	"id" : "2",
+	"nama" : "Didin",
+	"asal" : "Bandung"
 	},	
 	{
-	"id" : 3,
-	"nama" : Hamdani,
-	"asal" : Bandung
+	"id" : "3",
+	"nama" : "Hamdani",
+	"asal" : "Bandung"
 	}
 ]
